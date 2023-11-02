@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-02T09:28:17Z" name="Default suite" finished-at="2023-11-02T09:28:37Z" duration-ms="20392">
+    <groups>
+    </groups>
+    <test started-at="2023-11-02T09:28:17Z" name="Default test" finished-at="2023-11-02T09:28:37Z" duration-ms="20392">
+      <class name="Tests.TablePage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TablePage@302c971f]" started-at="2023-11-02T14:58:17Z" name="setUp" finished-at="2023-11-02T14:58:25Z" duration-ms="7874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePage()[pri:0, instance:Tests.TablePage@302c971f]" started-at="2023-11-02T14:58:25Z" name="HomePage" finished-at="2023-11-02T14:58:37Z" duration-ms="11981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:Tests.TablePage@302c971f]" started-at="2023-11-02T14:58:37Z" name="closure" finished-at="2023-11-02T14:58:37Z" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- Tests.TablePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
